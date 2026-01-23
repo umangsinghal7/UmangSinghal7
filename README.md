@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umang Singh</h1>
+<h1 align="center">Hi 👋, I'm Umang Singhal</h1>
 <h3 align="center">C++ DSA Learner | Backend Developer | 3rd Sem Student</h3>
 
 ---
