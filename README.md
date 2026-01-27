@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Umang Singhal</h1>
-<h3 align="center">C++ DSA Learner | Backend Developer | 3rd Sem Student</h3>
+<h3 align="center">C++ DSA Learner | Backend Developer | 2rd year Student</h3>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently in **3rd Semester**, CGPA: **9.1**
+- 🎓 Currently in **4th Semester**, CGPA: **9.1**
 - 💡 I’m learning **Data Structures & Algorithms (C++)**
 - 🔧 Comfortable with **C, C++, Java & OOPs concepts**
 - 🌱 Exploring **Backend Development (Node.js + Express + MongoDB)**
