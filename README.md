@@ -19,7 +19,7 @@ Focused on writing clean, maintainable code and building scalable backend system
 
 | Degree | Institution | Status | CGPA |
 |--------|------------|--------|------|
-| B.Tech in Computer Science | — | 4th Semester | 9.1 |
+| B.Tech in Computer Science | IPU | 4th Semester | 9.1 |
 
 ---
 
