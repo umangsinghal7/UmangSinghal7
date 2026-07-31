@@ -1,132 +1,167 @@
+````markdown
 <div align="center">
 
-# Hi 👋 I'm Umang Singhal
+# 💻 Terminal v3.0
 
-### Full-Stack Developer (MERN) • C++ Programmer • Computer Science Student
-
-🎓 **B.Tech Computer Science Engineering**
-📍 **3rd Year (5th Semester)**
-🏆 **CGPA: 9.25 / 10**
-
-<img src="https://komarev.com/ghpvc/?username=umangsinghal7&label=Profile%20Views&color=0e75b6&style=flat" />
+```
+Last login: Fri Jul 31 18:42:11 IST 2026
+Welcome back, Umang.
+```
 
 </div>
 
----
+```bash
+umang@github:~$ whoami
+```
 
-# 👨‍💻 About Me
-
-I am a Computer Science undergraduate passionate about building scalable web applications and solving challenging algorithmic problems.
-
-My primary interests include:
-
-* Full-Stack Web Development (MERN)
-* Backend Engineering
-* Data Structures & Algorithms
-* System Design
-* Open Source
-
-Currently preparing for **Software Development Internship (SDE)** opportunities while continuously improving my development and problem-solving skills.
+```text
+Umang Singhal
+```
 
 ---
 
-# 🎓 Education
+```bash
+umang@github:~$ education
+```
 
-| Degree                                | University                                      | Status                  | CGPA          |
-| ------------------------------------- | ----------------------------------------------- | ----------------------- | ------------- |
-| B.Tech Computer Science & Engineering | Guru Gobind Singh Indraprastha University (IPU) | 3rd Year (5th Semester) | **9.25 / 10** |
-
----
-
-# 💻 Technical Skills
-
-## Languages
-
-* C
-* C++
-* Java
-* JavaScript
-
-## Frontend
-
-* HTML
-* CSS
-* React.js
-* Tailwind CSS
-* Bootstrap
-
-## Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* Authentication
-* Passport.js
-* JWT
-* Sessions
-
-## Database
-
-* MongoDB
-* Mongoose
-
-## Tools
-
-* Git
-* GitHub
-* Linux (Ubuntu)
-* VS Code
-* Postman
-* Cloudinary
-
-## Core Subjects
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* DBMS
-* Operating Systems
-* Computer Networks
+```yaml
+Degree      : B.Tech Computer Science Engineering
+University  : Guru Gobind Singh Indraprastha University
+Year        : 3rd Year
+Semester    : 5th
+CGPA        : 9.25 / 10
+```
 
 ---
 
-# 🚀 Featured Projects
+```bash
+umang@github:~$ about
+```
 
-## 🛣️ StreetFix
+```text
+Backend & Full Stack Developer
 
-A MERN-based civic issue reporting platform where users can report road damage, sanitation issues, and infrastructure problems with image uploads and location tracking.
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB • Cloudinary
-
----
-
-## 🏕️ YelpCamp
-
-A full-stack campground listing platform featuring authentication, authorization, image uploads, reviews, and complete CRUD functionality.
-
-**Tech Stack**
-
-Node.js • Express • MongoDB • EJS • Passport.js • Cloudinary
+• Passionate about building scalable web applications
+• Strong interest in Data Structures & Algorithms
+• Love solving real-world problems through software
+• Currently preparing for Software Development Engineer Internships
+```
 
 ---
 
-# 🎯 Current Focus
+```bash
+umang@github:~$ ls projects/
+```
 
-* Solving Data Structures & Algorithms problems daily
-* Building production-ready MERN applications
-* Learning scalable backend architecture
-* Preparing for Software Development Engineer internships
+```text
+📂 StreetFix
+│
+├── MERN Stack
+├── Authentication
+├── Image Upload
+├── Maps Integration
+└── Civic Issue Reporting
+
+📂 YelpCamp
+│
+├── Node.js
+├── Express.js
+├── MongoDB
+├── Authentication
+└── CRUD Application
+```
 
 ---
 
-# 📊 GitHub Statistics
+```bash
+umang@github:~$ tech-stack
+```
+
+```text
+Languages
+─────────
+C
+C++
+Java
+JavaScript
+
+Frontend
+─────────
+HTML
+CSS
+React
+Tailwind CSS
+
+Backend
+────────
+Node.js
+Express.js
+REST APIs
+Passport.js
+JWT
+
+Database
+────────
+MongoDB
+Mongoose
+
+Tools
+─────
+Git
+GitHub
+VS Code
+Linux
+Postman
+Cloudinary
+```
+
+---
+
+```bash
+umang@github:~$ skills --verbose
+```
+
+```text
+███████████████████░░░ 90%   C++
+
+█████████████████░░░░░ 85%   Data Structures
+
+████████████████░░░░░░ 80%   Node.js
+
+███████████████░░░░░░░ 75%   React
+
+████████████████░░░░░░ 80%   MongoDB
+
+██████████████░░░░░░░░ 70%   System Design
+```
+
+---
+
+```bash
+umang@github:~$ current-focus
+```
+
+```text
+✔ Solving LeetCode Daily
+
+✔ Building Production Ready MERN Applications
+
+✔ Learning Backend Architecture
+
+✔ Preparing for SDE Internships
+```
+
+---
+
+```bash
+umang@github:~$ cat github-stats
+```
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=umangsinghal7&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=umangsinghal7&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangsinghal7&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangsinghal7&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -138,18 +173,36 @@ Node.js • Express • MongoDB • EJS • Passport.js • Cloudinary
 
 ---
 
-# 📫 Connect With Me
+```bash
+umang@github:~$ contact
+```
 
-📧 **Email:** [umangsinghal2007@gmail.com](mailto:umangsinghal2007@gmail.com)
-
-📍 **Location:** Delhi, India
+```yaml
+Email : umangsinghal2007@gmail.com
+Location : Delhi, India
+GitHub : github.com/umangsinghal7
+```
 
 ---
 
-<div align="center">
+```bash
+umang@github:~$ echo $MISSION
+```
 
-### ⭐ Always learning • Always building • Always improving
+```text
+Build.
+Learn.
+Contribute.
+Crack an SDE Internship.
+Repeat.
+```
 
-*"First, solve the problem. Then, write the code."*
+---
 
-</div>
+```bash
+umang@github:~$ exit
+logout
+
+Connection to github closed.
+```
+````
