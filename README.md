@@ -1,74 +1,155 @@
 <div align="center">
 
-# Umang Singhal
-**Backend Developer | Computer Science Student | DSA Enthusiast**
+# Hi 👋 I'm Umang Singhal
+
+### Full-Stack Developer (MERN) • C++ Programmer • Computer Science Student
+
+🎓 **B.Tech Computer Science Engineering**
+📍 **3rd Year (5th Semester)**
+🏆 **CGPA: 9.25 / 10**
+
+<img src="https://komarev.com/ghpvc/?username=umangsinghal7&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## Professional Summary
+# 👨‍💻 About Me
 
-Computer Science undergraduate (4th Semester, CGPA: 9.1) with strong foundations in Data Structures and Algorithms and hands-on experience in backend development using Node.js and MongoDB. 
+I am a Computer Science undergraduate passionate about building scalable web applications and solving challenging algorithmic problems.
 
-Focused on writing clean, maintainable code and building scalable backend systems. Currently strengthening problem-solving skills and deepening understanding of core computer science concepts.
+My primary interests include:
 
----
+* Full-Stack Web Development (MERN)
+* Backend Engineering
+* Data Structures & Algorithms
+* System Design
+* Open Source
 
-## Education
-
-| Degree | Institution | Status | CGPA |
-|--------|------------|--------|------|
-| B.Tech in Computer Science | IPU | 4th Semester | 9.1 |
-
----
-
-## Technical Skills
-
-### Programming Languages
-
-| C | C++ | Java | JavaScript |
-|---|-----|------|------------|
-
-### Backend Development
-
-| Node.js | Express.js | MongoDB | Mongoose | REST APIs | Authentication (Sessions & Passport) |
-
-### Core Computer Science
-
-| Data Structures | Algorithms | OOP | DBMS | Operating Systems (Learning) |
-
-### Tools & Environment
-
-| Git | GitHub | Linux (Ubuntu) | Postman | VS Code |
+Currently preparing for **Software Development Internship (SDE)** opportunities while continuously improving my development and problem-solving skills.
 
 ---
 
-## Current Focus
+# 🎓 Education
 
-- Strengthening advanced DSA concepts for technical interviews  
-- Building production-ready backend applications  
-- Improving system design fundamentals  
-- Writing modular and scalable code  
+| Degree                                | University                                      | Status                  | CGPA          |
+| ------------------------------------- | ----------------------------------------------- | ----------------------- | ------------- |
+| B.Tech Computer Science & Engineering | Guru Gobind Singh Indraprastha University (IPU) | 3rd Year (5th Semester) | **9.25 / 10** |
 
 ---
 
-## GitHub Statistics
+# 💻 Technical Skills
+
+## Languages
+
+* C
+* C++
+* Java
+* JavaScript
+
+## Frontend
+
+* HTML
+* CSS
+* React.js
+* Tailwind CSS
+* Bootstrap
+
+## Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* Authentication
+* Passport.js
+* JWT
+* Sessions
+
+## Database
+
+* MongoDB
+* Mongoose
+
+## Tools
+
+* Git
+* GitHub
+* Linux (Ubuntu)
+* VS Code
+* Postman
+* Cloudinary
+
+## Core Subjects
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Operating Systems
+* Computer Networks
+
+---
+
+# 🚀 Featured Projects
+
+## 🛣️ StreetFix
+
+A MERN-based civic issue reporting platform where users can report road damage, sanitation issues, and infrastructure problems with image uploads and location tracking.
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • Cloudinary
+
+---
+
+## 🏕️ YelpCamp
+
+A full-stack campground listing platform featuring authentication, authorization, image uploads, reviews, and complete CRUD functionality.
+
+**Tech Stack**
+
+Node.js • Express • MongoDB • EJS • Passport.js • Cloudinary
+
+---
+
+# 🎯 Current Focus
+
+* Solving Data Structures & Algorithms problems daily
+* Building production-ready MERN applications
+* Learning scalable backend architecture
+* Preparing for Software Development Engineer internships
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmangSinghal7&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangSinghal7&layout=compact&hide_border=true" height="160"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=umangsinghal7&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangsinghal7&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=umangsinghal7&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## Contact Information
+# 📫 Connect With Me
 
-- Email: umangsinghal2007@gmail.com  
-- Location: Delhi, India  
+📧 **Email:** [umangsinghal2007@gmail.com](mailto:umangsinghal2007@gmail.com)
+
+📍 **Location:** Delhi, India
 
 ---
 
-<p align="center">
-  <em>Committed to continuous improvement and long-term technical excellence.</em>
-</p>
+<div align="center">
+
+### ⭐ Always learning • Always building • Always improving
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
