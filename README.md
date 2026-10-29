@@ -1,208 +1,31 @@
-````markdown
 <div align="center">
 
-# 💻 Terminal v3.0
+# ⚡ Umang Singhal
+### Full-Stack Developer & Problem Solver
 
-```
-Last login: Fri Jul 31 18:42:11 IST 2026
-Welcome back, Umang.
-```
+<!-- Dynamic Typing SVG Header -->
+<a href="https://github.com/umangsinghal7">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Full+Stack+%26+Backend+Developer;B.Tech+CSE+@+GGSIPU+(9.25+CGPA);Cracking+DSA+%26+Backend+Architecture;Preparing+for+SDE+Internships" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:umangsinghal2007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
-```bash
-umang@github:~$ whoami
-```
-
-```text
-Umang Singhal
-```
-
 ---
 
-```bash
-umang@github:~$ education
-```
+### 🖥️ `system_info.sh`
 
 ```yaml
-Degree      : B.Tech Computer Science Engineering
-University  : Guru Gobind Singh Indraprastha University
-Year        : 3rd Year
-Semester    : 5th
-CGPA        : 9.25 / 10
-```
-
----
-
-```bash
-umang@github:~$ about
-```
-
-```text
-Backend & Full Stack Developer
-
-• Passionate about building scalable web applications
-• Strong interest in Data Structures & Algorithms
-• Love solving real-world problems through software
-• Currently preparing for Software Development Engineer Internships
-```
-
----
-
-```bash
-umang@github:~$ ls projects/
-```
-
-```text
-📂 StreetFix
-│
-├── MERN Stack
-├── Authentication
-├── Image Upload
-├── Maps Integration
-└── Civic Issue Reporting
-
-📂 YelpCamp
-│
-├── Node.js
-├── Express.js
-├── MongoDB
-├── Authentication
-└── CRUD Application
-```
-
----
-
-```bash
-umang@github:~$ tech-stack
-```
-
-```text
-Languages
-─────────
-C
-C++
-Java
-JavaScript
-
-Frontend
-─────────
-HTML
-CSS
-React
-Tailwind CSS
-
-Backend
-────────
-Node.js
-Express.js
-REST APIs
-Passport.js
-JWT
-
-Database
-────────
-MongoDB
-Mongoose
-
-Tools
-─────
-Git
-GitHub
-VS Code
-Linux
-Postman
-Cloudinary
-```
-
----
-
-```bash
-umang@github:~$ skills --verbose
-```
-
-```text
-███████████████████░░░ 90%   C++
-
-█████████████████░░░░░ 85%   Data Structures
-
-████████████████░░░░░░ 80%   Node.js
-
-███████████████░░░░░░░ 75%   React
-
-████████████████░░░░░░ 80%   MongoDB
-
-██████████████░░░░░░░░ 70%   System Design
-```
-
----
-
-```bash
-umang@github:~$ current-focus
-```
-
-```text
-✔ Solving LeetCode Daily
-
-✔ Building Production Ready MERN Applications
-
-✔ Learning Backend Architecture
-
-✔ Preparing for SDE Internships
-```
-
----
-
-```bash
-umang@github:~$ cat github-stats
-```
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=umangsinghal7&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangsinghal7&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=umangsinghal7&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-```bash
-umang@github:~$ contact
-```
-
-```yaml
-Email : umangsinghal2007@gmail.com
-Location : Delhi, India
-GitHub : github.com/umangsinghal7
-```
-
----
-
-```bash
-umang@github:~$ echo $MISSION
-```
-
-```text
-Build.
-Learn.
-Contribute.
-Crack an SDE Internship.
-Repeat.
-```
-
----
-
-```bash
-umang@github:~$ exit
-logout
-
-Connection to github closed.
-```
-````
+OS          : Linux x86_64
+Location    : Delhi, India
+Education   : B.Tech CSE (GGSIPU) — 3rd Year / 5th Sem [CGPA: 9.25/10]
+Stack Focus : C++, Node.js, Express, MongoDB, React
+Career Goal : Software Development Engineer (SDE) Intern
